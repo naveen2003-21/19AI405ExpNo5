@@ -1,8 +1,8 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: pragatheesvaran AB
+### Name: NAVEEN KUMAR A
 
-### Register Number: 212221240039
+### Register Number: 212221240032
 
 ## Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
